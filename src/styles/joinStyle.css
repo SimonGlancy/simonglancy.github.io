@@ -1,0 +1,43 @@
+#mc_embed_signup{
+  font-family: 'Impact Label Reversed', arial;
+  width: 50%;
+  min-width: 50%;
+  background-color: white;
+  margin: auto;
+}
+
+.button{
+  font-family: 'Impact Label Reversed', arial;
+}
+
+.required-email{
+  font-family: 'Impact Label Reversed', arial;
+  font-size: 18px;
+}
+
+.signup-header{
+  font-family: 'Impact Label Reversed', arial;
+}
+
+#mc_embed_signup .button {
+    clear: both;
+    border: 0 none;
+    border-radius: 4px;
+    background-color: black;
+    /*color: #FFFFFF;*/
+    cursor: pointer;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: normal;
+    height: 32px;
+    line-height: 32px;
+    margin: 0 5px 10px 0;
+    padding: 0 22px;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: top;
+    white-space: nowrap;
+    width: auto;
+    font-family: 'Impact Label Reversed', arial;
+    background-color: black;
+}
